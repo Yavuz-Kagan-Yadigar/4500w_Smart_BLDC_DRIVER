@@ -1,3 +1,5 @@
+![BLDCV10](https://github.com/user-attachments/assets/b7d80735-6d51-45c2-b566-320cf8c9c255)
+
 Elektrikli araçlar için tasarladığım 4500W BLDC motor sürücü kartı.Teknofest Efficiency Challange için tasarlamış olsam da bir takım diplomatik sorunlardan dolayı proje askıya alındı.
 An 4500w BLDC motor driver for small EV's.
 
